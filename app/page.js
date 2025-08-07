@@ -69,7 +69,7 @@ export default function Home() {
     <section className="bg-[#780016] min-h-[100vh] grid grid-cols-1 lg:grid-cols-2 px-4 lg:px-0">
         <div className="flex flex-col justify-center lg:ml-[5vw] gap-4 p-4">
           <p className="text-yellow-300 font-extrabold text-4xl md:text-5xl lg:text-7xl leading-tight">Check your personalized Linktree.</p>
-          <p className="text-white font-bold text-base md:text-lg lg:text-xl"> Already have a Linktree? Just enter your unique handle to instantly view or edit your personalized bio link page. No login needed – it's quick and easy!</p>
+          <p className="text-white font-bold text-base md:text-lg lg:text-xl"> Already have a Linktree? Just enter your unique handle to instantly view or edit your personalized bio link page. No login needed – It&apos;s quick and easy!</p>
           <div className="flex flex-col sm:flex-row gap-3 mt-6">
             <input
               value={text}
